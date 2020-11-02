@@ -1,3 +1,4 @@
+rouge-score
 transformers==2.10.0
 regex==2020.5.14
 nltk==3.4.5
